@@ -12,6 +12,7 @@ h1 {
 
 .first-section {
     display: flex;
+    margin-bottom: 10px;
 }
 
 .first-section img {
@@ -69,9 +70,10 @@ h1 {
 }
 
 .image-height {
+    margin: 5%;
     width: 530px;
     height: 308px;
-    margin: 30px;
+
 }
 
 .margin-text {
@@ -87,7 +89,23 @@ h1 {
 
 }
 
-.width-height {
-    margin-left: 100px;
-    margin-right: 100px;
+.subscribers {
+    text-align: center;
+    line-height: 26px;
+    width: 302px;
+    height: 26px;
+}
+
+.line-space {
+    margin-top: 8px;
+}
+
+footer {
+    margin-top: 150px;
+    text-align: center;
+    background-color: #0B0D17;
+    color: white;
+    Width: auto;
+    Height: 100px;
+    padding: 50px;
 }
