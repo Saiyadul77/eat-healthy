@@ -92,8 +92,9 @@ h1 {
 .subscribers {
     text-align: center;
     line-height: 26px;
-    width: 302px;
-    height: 26px;
+    margin-left: 5%;
+    width: 30%;
+
 }
 
 .line-space {
